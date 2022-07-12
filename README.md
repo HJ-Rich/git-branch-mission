@@ -5,7 +5,7 @@
   - [호프](https://github.com/moonheekim0118)
 
 - BE
-  - [리차드](https://github.com/HJ-Rich)
+  - [리차드](./members/HJ-Rich.md)
   - [봄](https://github.com/JangBomi)
   - [써머](https://github.com/hyewoncc)
   - [연로그](https://github.com/yeon-06)
